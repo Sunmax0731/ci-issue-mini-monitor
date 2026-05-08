@@ -1,0 +1,38 @@
+{
+  "product": "ci-issue-mini-monitor",
+  "sourceRank": {
+    "rank": 46,
+    "tier": "P2",
+    "score": 57,
+    "domain": "IoT",
+    "ideaNo": 15,
+    "ideaName": "CI・Issueミニモニター",
+    "repositoryName": "ci-issue-mini-monitor",
+    "publicTarget": "GitHub Release / 自宅LAN",
+    "priorityReason": "元100件下位候補。ハード表示を後回しにしてWeb/CLI通知なら先にMVP化できる。"
+  },
+  "initialRepositoryReadme": "not-found-at-start",
+  "exactCreatedIdeaPath": "D:\\AI\\IoT\\created_idea_015_ci-issue-mini-monitor",
+  "exactZipPath": "D:\\AI\\IoT\\created_idea_015_ci-issue-mini-monitor\\idea_015_ci-issue-mini-monitor.zip",
+  "exactCreatedIdeaPathExists": true,
+  "exactZipExists": true,
+  "fallbackSearchUsed": false,
+  "fallbackSearchResults": [],
+  "zipEntriesChecked": [
+    "metadata.json",
+    "START_PROMPT.md",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md",
+    "02_SPECIFICATION.md"
+  ],
+  "expectedZipEntriesPresent": true,
+  "metadataRepositoryName": "ci-issue-mini-monitor",
+  "metadataIdea": "CI・Issueミニモニター",
+  "metadataMatchesRepository": true,
+  "markdownCopyPolicy": "Formal docs are regenerated in normal Japanese from NON_PICKUP row, metadata, and domain docs. ZIP markdown is checked but not copied verbatim.",
+  "mojibakePolicy": "Generated docs are checked by code point based scanner."
+}
