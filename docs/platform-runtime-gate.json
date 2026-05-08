@@ -1,0 +1,11 @@
+{
+  "product": "ci-issue-mini-monitor",
+  "title": "CI・Issueミニモニター",
+  "domain": "IoT",
+  "ideaNo": 15,
+  "platformType": "iot-simulator-mock",
+  "expectedPublicTarget": "GitHub Release / 自宅LAN",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
